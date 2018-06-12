@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SupplierSuite]">
+  <parameter name="browsername" value="CH"/>
+  <test name="SupplierTest4(failed)">
+    <parameter name="browsername" value="CH"/>
+    <classes>
+      <class name="Search.Search_Credit_Card">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Card -->
+      <class name="Search.Search_Prepay_Within_DeadLine">
+        <methods>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Prepay_Within_DeadLine -->
+      <class name="Search.Search_Credit">
+        <methods>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Credit -->
+      <class name="Search.Search_Credit_Within_DeadLine">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Within_DeadLine -->
+      <class name="Search.Search_Dotw">
+        <methods>
+          <include name="afterTest"/>
+          <include name="SearchDotw" invocation-numbers="0"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Dotw -->
+      <class name="Search.Search_Prepay">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Prepay -->
+      <class name="Search.Search_Credit_Card_Within_DeadLine">
+        <methods>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Card_Within_DeadLine -->
+    </classes>
+  </test> <!-- SupplierTest4(failed) -->
+  <test name="SupplierTest5(failed)">
+    <parameter name="browsername" value="CH"/>
+    <classes>
+      <class name="Search.Search_Credit_Card">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Card -->
+      <class name="Search.Search_Prepay_Within_DeadLine">
+        <methods>
+          <include name="getResult"/>
+          <include name="SearchPrepayWithinDeadLine" invocation-numbers="0"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Prepay_Within_DeadLine -->
+      <class name="Search.Search_Credit">
+        <methods>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Credit -->
+      <class name="Search.Search_Credit_Within_DeadLine">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Within_DeadLine -->
+      <class name="Search.Search_Dotw">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Dotw -->
+      <class name="Search.Search_Prepay">
+        <methods>
+          <include name="afterTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Search.Search_Prepay -->
+      <class name="Search.Search_Credit_Card_Within_DeadLine">
+        <methods>
+          <include name="getResult"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Search.Search_Credit_Card_Within_DeadLine -->
+    </classes>
+  </test> <!-- SupplierTest5(failed) -->
+</suite> <!-- Failed suite [SupplierSuite] -->

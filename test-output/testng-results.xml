@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SupplierSuite" duration-ms="60103" started-at="2018-05-23T10:34:25Z" finished-at="2018-05-23T10:35:25Z">
+    <groups>
+    </groups>
+    <test name="SupplierTest5" duration-ms="60103" started-at="2018-05-23T10:34:25Z" finished-at="2018-05-23T10:35:25Z">
+      <class name="Search.Search_Prepay_Within_DeadLine">
+        <test-method status="PASS" signature="SearchPrepayWithinDeadLine(java.lang.String)[pri:0, instance:Search.Search_Prepay_Within_DeadLine@3d921e20]" name="SearchPrepayWithinDeadLine" duration-ms="59494" started-at="2018-05-23T16:04:25Z" finished-at="2018-05-23T16:05:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPrepayWithinDeadLine -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Search.Search_Prepay_Within_DeadLine@3d921e20]" name="getResult" is-config="true" duration-ms="2" started-at="2018-05-23T16:05:24Z" finished-at="2018-05-23T16:05:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchPrepayWithinDeadLine status=SUCCESS method=Search_Prepay_Within_DeadLine.SearchPrepayWithinDeadLine(java.lang.String)[pri:0, instance:Search.Search_Prepay_Within_DeadLine@3d921e20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Search.Search_Prepay_Within_DeadLine@3d921e20]" name="afterTest" is-config="true" duration-ms="594" started-at="2018-05-23T16:05:24Z" finished-at="2018-05-23T16:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Search.Search_Prepay_Within_DeadLine -->
+    </test> <!-- SupplierTest5 -->
+  </suite> <!-- SupplierSuite -->
+</testng-results>

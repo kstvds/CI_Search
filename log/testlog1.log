@@ -1,0 +1,427 @@
+2018-02-16 11:44:04,680 [main] INFO Search_Prepay - Test Case Started
+2018-02-16 11:44:12,929 [main] INFO Search_Prepay - Browser Opened
+2018-02-16 11:44:19,164 [main] INFO Search_Prepay - Test Case Started
+2018-02-16 11:44:34,240 [main] INFO Search_Prepay - Login Successful
+2018-02-16 11:44:36,789 [main] INFO Search_Prepay - Applying search Filters
+2018-02-16 11:44:36,789 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-02-16 11:45:15,999 [main] INFO Search_Prepay - Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h3[@class='unitName']
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir8068_23714}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 45e305b064cb126ceff62c4d867bd8cb
+2018-02-16 11:54:09,878 [main] INFO Search_Prepay - Test Case Started
+2018-02-16 11:54:12,974 [main] INFO Search_Prepay - Browser Opened
+2018-02-16 11:54:20,524 [main] INFO Search_Prepay - Test Case Started
+2018-02-16 11:54:43,464 [main] INFO Search_Prepay - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=62.0.3202.62)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir14780_25956}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e15656e94520431ee9e153a445062463
+2018-02-16 11:54:45,831 [main] INFO Search_Credit - Test Case Started
+2018-02-16 11:54:52,943 [main] INFO Search_Credit - Test Case Started
+2018-02-16 11:54:55,442 [main] INFO Search_Credit - Browser Opened
+2018-02-16 11:55:01,598 [main] INFO Search_Credit - Test Case Started
+2018-02-16 11:55:31,261 [main] INFO Search_Credit - Login Successful
+2018-02-16 11:55:33,703 [main] INFO Search_Credit - Applying search Filters
+2018-02-16 11:55:33,707 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-02-16 11:55:53,860 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-02-16 11:55:56,183 [main] INFO Search_Dotw - Test Case Started
+2018-02-16 11:55:58,684 [main] INFO Search_Dotw - Browser Opened
+2018-02-16 11:56:06,378 [main] INFO Search_Dotw - Test Case Started
+2018-02-16 11:56:35,845 [main] INFO Search_Dotw - Login Successful
+2018-02-16 11:56:38,203 [main] INFO Search_Dotw - Applying search Filters
+2018-02-16 11:56:38,203 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-02-16 11:56:49,694 [main] INFO Search_Dotw - Hotel Search Complete Dotw
+2018-03-07 20:03:46,771 [main] INFO Search_Prepay - Test Case Started
+2018-03-07 20:03:52,963 [main] INFO Search_Prepay - Browser Opened
+2018-03-07 20:04:00,763 [main] INFO Search_Prepay - Test Case Started
+2018-03-07 20:04:21,916 [main] INFO Search_Prepay - Login Successful
+2018-03-07 20:04:24,481 [main] INFO Search_Prepay - Applying search Filters
+2018-03-07 20:04:24,495 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-03-07 20:04:49,500 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-03-07 20:04:50,134 [main] INFO Search_Credit - Test Case Started
+2018-03-07 20:04:55,759 [main] INFO Search_Credit - Browser Opened
+2018-03-07 20:05:02,760 [main] INFO Search_Credit - Test Case Started
+2018-03-07 20:05:24,172 [main] INFO Search_Credit - Login Successful
+2018-03-07 20:05:26,726 [main] INFO Search_Credit - Applying search Filters
+2018-03-07 20:05:26,727 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-03-07 20:05:44,794 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-03-07 20:05:47,079 [main] INFO Search_Credit - Test Case Started
+2018-03-07 20:05:53,043 [main] INFO Search_Credit - Browser Opened
+2018-03-07 20:06:00,364 [main] INFO Search_Credit - Test Case Started
+2018-03-07 20:06:21,394 [main] INFO Search_Credit - Login Successful
+2018-03-07 20:06:23,921 [main] INFO Search_Credit - Applying search Filters
+2018-03-07 20:06:23,926 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-03-07 20:06:41,994 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-03-07 20:06:42,293 [main] INFO Search_Dotw - Test Case Started
+2018-03-07 20:06:47,904 [main] INFO Search_Dotw - Browser Opened
+2018-03-07 20:06:54,929 [main] INFO Search_Dotw - Test Case Started
+2018-03-07 20:07:15,602 [main] INFO Search_Dotw - Login Successful
+2018-03-07 20:07:18,136 [main] INFO Search_Dotw - Applying search Filters
+2018-03-07 20:07:18,136 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-03-07 20:07:35,218 [main] INFO Search_Dotw - Hotel Search Complete Dotw
+2018-03-07 20:07:35,551 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-07 20:07:41,513 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-03-07 20:07:48,514 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-07 20:08:09,579 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-03-07 20:08:12,029 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-03-07 20:08:12,029 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-03-07 20:08:37,543 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-03-07 20:08:37,762 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-07 20:08:43,548 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-03-07 20:08:50,533 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-07 20:09:12,059 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-03-07 20:09:14,506 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-03-07 20:09:14,508 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-03-07 20:09:39,591 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-03-07 20:09:41,906 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-07 20:09:47,164 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-03-07 20:09:54,113 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-07 20:10:15,532 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-03-07 20:10:18,023 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-03-07 20:10:18,029 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-03-07 20:10:40,996 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-03-12 18:03:59,120 [main] INFO Search_Prepay - Test Case Started
+2018-03-12 18:04:04,957 [main] INFO Search_Prepay - Browser Opened
+2018-03-12 18:04:11,642 [main] INFO Search_Prepay - Test Case Started
+2018-03-12 18:04:33,522 [main] INFO Search_Prepay - Login Successful
+2018-03-12 18:04:35,969 [main] INFO Search_Prepay - Applying search Filters
+2018-03-12 18:04:35,969 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-03-12 18:04:55,094 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-03-12 18:04:57,499 [main] INFO Search_Credit - Test Case Started
+2018-03-12 18:05:02,774 [main] INFO Search_Credit - Browser Opened
+2018-03-12 18:05:09,391 [main] INFO Search_Credit - Test Case Started
+2018-03-12 18:05:30,571 [main] INFO Search_Credit - Login Successful
+2018-03-12 18:05:33,035 [main] INFO Search_Credit - Applying search Filters
+2018-03-12 18:05:33,035 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-03-12 18:05:52,045 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-03-12 18:05:52,355 [main] INFO Search_Credit - Test Case Started
+2018-03-12 18:05:57,568 [main] INFO Search_Credit - Browser Opened
+2018-03-12 18:06:04,162 [main] INFO Search_Credit - Test Case Started
+2018-03-12 18:06:24,932 [main] INFO Search_Credit - Login Successful
+2018-03-12 18:06:27,364 [main] INFO Search_Credit - Applying search Filters
+2018-03-12 18:06:27,365 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-03-12 18:06:44,920 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-03-12 18:06:45,216 [main] INFO Search_Dotw - Test Case Started
+2018-03-12 18:06:50,450 [main] INFO Search_Dotw - Browser Opened
+2018-03-12 18:06:57,108 [main] INFO Search_Dotw - Test Case Started
+2018-03-12 18:07:17,896 [main] INFO Search_Dotw - Login Successful
+2018-03-12 18:07:20,333 [main] INFO Search_Dotw - Applying search Filters
+2018-03-12 18:07:20,334 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-03-12 18:07:35,962 [main] INFO Search_Dotw - Hotel Search Complete Dotw
+2018-03-15 12:02:58,899 [main] INFO Search_Prepay - Test Case Started
+2018-03-15 12:03:07,114 [main] INFO Search_Prepay - Browser Opened
+2018-03-15 12:03:13,031 [main] INFO Search_Prepay - Test Case Started
+2018-03-15 12:03:32,400 [main] INFO Search_Prepay - Login Successful
+2018-03-15 12:03:34,950 [main] INFO Search_Prepay - Applying search Filters
+2018-03-15 12:03:34,951 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-03-15 12:03:50,203 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-03-15 12:03:52,854 [main] INFO Search_Credit - Test Case Started
+2018-03-15 12:03:58,252 [main] INFO Search_Credit - Browser Opened
+2018-03-15 12:04:04,195 [main] INFO Search_Credit - Test Case Started
+2018-03-15 12:04:23,702 [main] INFO Search_Credit - Login Successful
+2018-03-15 12:04:26,168 [main] INFO Search_Credit - Applying search Filters
+2018-03-15 12:04:26,168 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-03-15 12:04:42,344 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-03-15 12:04:44,623 [main] INFO Search_Credit - Test Case Started
+2018-03-15 12:04:50,327 [main] INFO Search_Credit - Browser Opened
+2018-03-15 12:04:56,540 [main] INFO Search_Credit - Test Case Started
+2018-03-15 12:05:16,807 [main] INFO Search_Credit - Login Successful
+2018-03-15 12:05:19,308 [main] INFO Search_Credit - Applying search Filters
+2018-03-15 12:05:19,308 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-03-15 12:05:36,461 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-03-15 12:05:39,181 [main] INFO Search_Dotw - Test Case Started
+2018-03-15 12:05:44,894 [main] INFO Search_Dotw - Browser Opened
+2018-03-15 12:05:50,716 [main] INFO Search_Dotw - Test Case Started
+2018-03-15 12:06:11,165 [main] INFO Search_Dotw - Login Successful
+2018-03-15 12:06:13,654 [main] INFO Search_Dotw - Applying search Filters
+2018-03-15 12:06:13,654 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-03-15 12:06:46,151 [main] INFO Search_Dotw - Hotel Search Complete Dotw
+2018-03-15 12:06:48,386 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-15 12:06:54,020 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-03-15 12:06:59,973 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-15 12:07:20,313 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-03-15 12:07:22,771 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-03-15 12:07:22,771 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-03-15 12:07:43,688 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-03-15 12:07:45,994 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-15 12:07:53,163 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-03-15 12:07:59,901 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-15 12:08:20,215 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-03-15 12:08:22,709 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-03-15 12:08:22,709 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-03-15 12:08:42,712 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-03-15 12:08:44,935 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-15 12:08:50,427 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-03-15 12:08:56,255 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-15 12:09:16,375 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-03-15 12:09:18,834 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-03-15 12:09:18,834 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-03-15 12:09:36,872 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-03-23 12:14:02,130 [main] INFO Search_Prepay - Test Case Started
+2018-03-23 12:14:08,464 [main] INFO Search_Prepay - Browser Opened
+2018-03-23 12:14:14,662 [main] INFO Search_Prepay - Test Case Started
+2018-03-23 12:14:34,045 [main] INFO Search_Prepay - Login Successful
+2018-03-23 12:14:36,535 [main] INFO Search_Prepay - Applying search Filters
+2018-03-23 12:14:36,536 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-03-23 12:14:57,338 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-03-23 12:15:00,089 [main] INFO Search_Credit - Test Case Started
+2018-03-23 12:15:06,047 [main] INFO Search_Credit - Browser Opened
+2018-03-23 12:15:11,777 [main] INFO Search_Credit - Test Case Started
+2018-03-23 12:15:31,716 [main] INFO Search_Credit - Login Successful
+2018-03-23 12:15:34,165 [main] INFO Search_Credit - Applying search Filters
+2018-03-23 12:15:34,165 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-03-23 12:15:52,579 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-03-23 12:15:54,825 [main] INFO Search_Credit - Test Case Started
+2018-03-23 12:16:00,480 [main] INFO Search_Credit - Browser Opened
+2018-03-23 12:16:06,161 [main] INFO Search_Credit - Test Case Started
+2018-03-23 12:16:25,574 [main] INFO Search_Credit - Login Successful
+2018-03-23 12:16:28,036 [main] INFO Search_Credit - Applying search Filters
+2018-03-23 12:16:28,037 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-03-23 12:16:45,432 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-03-23 12:16:47,642 [main] INFO Search_Dotw - Test Case Started
+2018-03-23 12:16:52,934 [main] INFO Search_Dotw - Browser Opened
+2018-03-23 12:16:58,345 [main] INFO Search_Dotw - Test Case Started
+2018-03-23 12:17:19,448 [main] INFO Search_Dotw - Login Successful
+2018-03-23 12:17:21,921 [main] INFO Search_Dotw - Applying search Filters
+2018-03-23 12:17:21,921 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-03-23 12:17:37,298 [main] INFO Search_Dotw - expected [true] but found [false]
+2018-03-23 12:17:37,653 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-23 12:17:43,072 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-03-23 12:17:48,233 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-03-23 12:18:09,296 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-03-23 12:18:11,726 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-03-23 12:18:11,726 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-03-23 12:18:30,591 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-03-23 12:18:30,807 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-23 12:18:36,065 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-03-23 12:18:41,226 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-03-23 12:19:03,062 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-03-23 12:19:05,542 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-03-23 12:19:05,542 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-03-23 12:19:22,612 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-03-23 12:19:24,827 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-23 12:19:30,252 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-03-23 12:19:36,001 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-03-23 12:19:57,471 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-03-23 12:19:59,957 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-03-23 12:19:59,958 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-03-23 12:20:16,877 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-03-29 14:38:26,611 [main] INFO Search_Prepay - Test Case Started
+2018-03-29 14:38:29,940 [main] INFO Search_Prepay - Browser Opened
+2018-03-29 14:38:51,527 [main] INFO Search_Prepay - Test Case Started
+2018-04-04 16:30:58,062 [main] INFO Search_Prepay - Test Case Started
+2018-04-04 16:31:01,662 [main] INFO Search_Prepay - Browser Opened
+2018-04-04 16:31:07,753 [main] INFO Search_Prepay - Test Case Started
+2018-04-04 16:31:27,771 [main] INFO Search_Prepay - Login Successful
+2018-04-04 16:31:30,136 [main] INFO Search_Prepay - Applying search Filters
+2018-04-04 16:31:30,136 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-04-04 16:31:44,957 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-04-04 16:31:47,759 [main] INFO Search_Credit - Test Case Started
+2018-04-04 16:31:50,758 [main] INFO Search_Credit - Browser Opened
+2018-04-04 16:31:55,560 [main] INFO Search_Credit - Test Case Started
+2018-04-04 16:32:15,141 [main] INFO Search_Credit - Login Successful
+2018-04-04 16:32:17,451 [main] INFO Search_Credit - Applying search Filters
+2018-04-04 16:32:17,452 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-04-04 16:32:31,164 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-04-04 16:32:33,479 [main] INFO Search_Credit - Test Case Started
+2018-04-04 16:32:37,506 [main] INFO Search_Credit - Browser Opened
+2018-04-04 16:32:45,088 [main] INFO Search_Credit - Test Case Started
+2018-04-04 16:33:05,819 [main] INFO Search_Credit - Login Successful
+2018-04-04 16:33:08,127 [main] INFO Search_Credit - Applying search Filters
+2018-04-04 16:33:08,127 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-04-04 16:33:20,636 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-04-04 16:33:22,895 [main] INFO Search_Dotw - Test Case Started
+2018-04-04 16:33:25,487 [main] INFO Search_Dotw - Browser Opened
+2018-04-04 16:33:31,228 [main] INFO Search_Dotw - Test Case Started
+2018-04-04 16:33:50,880 [main] INFO Search_Dotw - Login Successful
+2018-04-04 16:33:53,271 [main] INFO Search_Dotw - Applying search Filters
+2018-04-04 16:33:53,272 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-04-04 16:34:31,930 [main] INFO Search_Dotw - Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h3[@class='unitName']
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir37736_24995}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2be5e19a0b246ab17204bb34182b418c
+2018-04-04 16:34:34,209 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-04-04 16:34:36,957 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-04-04 16:34:41,899 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-04-04 16:35:00,330 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-04-04 16:35:02,680 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-04-04 16:35:02,680 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-04-04 16:35:18,130 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-04-04 16:35:20,354 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-04-04 16:35:23,118 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-04-04 16:35:27,758 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-04-04 16:35:45,940 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-04-04 16:35:48,303 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-04-04 16:35:48,304 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-04-04 16:36:05,424 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-04-04 16:36:05,681 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-04-04 16:36:08,490 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-04-04 16:36:13,271 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-04-04 16:36:31,467 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-04-04 16:36:33,810 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-04-04 16:36:33,810 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-04-04 16:36:45,366 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-04-09 18:32:49,563 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-04-09 18:32:55,875 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-04-09 18:33:00,902 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-04-09 18:33:21,712 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-04-09 18:33:24,231 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-04-09 18:33:24,232 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-04-09 18:33:40,614 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-04-09 18:33:41,181 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-04-09 18:33:46,795 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-04-09 18:33:52,400 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-04-09 18:34:12,109 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-04-09 18:34:14,560 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-04-09 18:34:14,560 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-04-09 18:34:37,122 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-04-09 18:34:39,379 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-04-09 18:34:44,686 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-04-09 18:34:50,328 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-04-09 18:35:11,801 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-04-09 18:35:14,259 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-04-09 18:35:14,259 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-04-09 18:35:28,091 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-05-23 14:44:22,066 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 14:44:27,819 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-05-23 14:44:33,170 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 14:44:49,460 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-05-23 14:44:52,000 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-05-23 14:44:52,000 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-05-23 14:45:23,417 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
+2018-05-23 14:45:26,074 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-05-23 14:45:28,698 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-05-23 14:45:34,299 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-05-23 14:45:54,770 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-05-23 14:45:57,195 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-05-23 14:45:57,195 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-05-23 14:46:28,553 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-05-23 14:46:30,794 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-05-23 14:46:33,289 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-05-23 14:46:37,942 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-05-23 14:46:58,640 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-05-23 14:47:01,041 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-05-23 14:47:01,041 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-05-23 14:47:23,878 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-05-23 14:48:51,705 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:48:54,912 [main] INFO Search_Prepay - Browser Opened
+2018-05-23 14:48:59,884 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:49:20,484 [main] INFO Search_Prepay - Login Successful
+2018-05-23 14:49:22,919 [main] INFO Search_Prepay - Applying search Filters
+2018-05-23 14:49:22,919 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-05-23 14:49:40,166 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-05-23 14:49:42,592 [main] INFO Search_Credit - Test Case Started
+2018-05-23 14:49:45,091 [main] INFO Search_Credit - Browser Opened
+2018-05-23 14:49:50,023 [main] INFO Search_Credit - Test Case Started
+2018-05-23 14:50:10,762 [main] INFO Search_Credit - Login Successful
+2018-05-23 14:50:13,180 [main] INFO Search_Credit - Applying search Filters
+2018-05-23 14:50:13,180 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-05-23 14:50:30,756 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-05-23 14:55:57,595 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:56:00,800 [main] INFO Search_Prepay - Browser Opened
+2018-05-23 14:56:05,798 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:56:24,130 [main] INFO Search_Prepay - Login Successful
+2018-05-23 14:56:26,544 [main] INFO Search_Prepay - Applying search Filters
+2018-05-23 14:56:26,544 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-05-23 14:57:05,411 [main] INFO Search_Prepay - Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h3[@class='unitName']
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir13220_14097}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 7ce6c4dab26b7454ebe78ab1c940e808
+2018-05-23 14:57:05,952 [main] INFO Search_Credit - Test Case Started
+2018-05-23 14:57:08,513 [main] INFO Search_Credit - Browser Opened
+2018-05-23 14:57:14,062 [main] INFO Search_Credit - Test Case Started
+2018-05-23 14:57:37,637 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:57:40,740 [main] INFO Search_Prepay - Browser Opened
+2018-05-23 14:57:47,157 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 14:58:05,637 [main] INFO Search_Prepay - Login Successful
+2018-05-23 14:58:08,054 [main] INFO Search_Prepay - Applying search Filters
+2018-05-23 14:58:08,054 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-05-23 14:58:32,603 [main] INFO Search_Prepay - chrome not reachable
+  (Session info: chrome=62.0.3202.62)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir13160_1420}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 00880c91c7a0fce81b127e36dbe540c2
+*** Element info: {Using=xpath, value=//h3[@class='unitName']}
+2018-05-23 14:58:35,070 [main] INFO Search_Credit - Test Case Started
+2018-05-23 14:58:37,798 [main] INFO Search_Credit - Browser Opened
+2018-05-23 15:05:37,217 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 15:05:40,392 [main] INFO Search_Prepay - Browser Opened
+2018-05-23 15:05:46,017 [main] INFO Search_Prepay - Test Case Started
+2018-05-23 15:06:03,447 [main] INFO Search_Prepay - Login Successful
+2018-05-23 15:06:05,874 [main] INFO Search_Prepay - Applying search Filters
+2018-05-23 15:06:05,874 [main] INFO Search_Prepay - Starting HotelSearch Prepay
+2018-05-23 15:06:24,920 [main] INFO Search_Prepay - Hotel Search Complete Prepay
+2018-05-23 15:06:27,429 [main] INFO Search_Credit - Test Case Started
+2018-05-23 15:06:30,277 [main] INFO Search_Credit - Browser Opened
+2018-05-23 15:06:36,437 [main] INFO Search_Credit - Test Case Started
+2018-05-23 15:06:53,956 [main] INFO Search_Credit - Login Successful
+2018-05-23 15:06:56,334 [main] INFO Search_Credit - Applying search Filters
+2018-05-23 15:06:56,334 [main] INFO Search_Credit - Starting HotelSearch Credit
+2018-05-23 15:07:15,380 [main] INFO Search_Credit - Hotel Search Complete Credit
+2018-05-23 15:07:15,715 [main] INFO Search_Credit - Test Case Started
+2018-05-23 15:07:18,626 [main] INFO Search_Credit - Browser Opened
+2018-05-23 15:07:40,150 [main] INFO Search_Credit - Test Case Started
+2018-05-23 15:07:58,001 [main] INFO Search_Credit - Login Successful
+2018-05-23 15:08:00,388 [main] INFO Search_Credit - Applying search Filters
+2018-05-23 15:08:00,388 [main] INFO Search_Credit - Starting HotelSearch Credit Card
+2018-05-23 15:08:15,791 [main] INFO Search_Credit - Hotel Search Complete Credit Card
+2018-05-23 15:08:18,481 [main] INFO Search_Dotw - Test Case Started
+2018-05-23 15:08:21,450 [main] INFO Search_Dotw - Browser Opened
+2018-05-23 15:08:27,727 [main] INFO Search_Dotw - Test Case Started
+2018-05-23 15:08:44,987 [main] INFO Search_Dotw - Login Successful
+2018-05-23 15:08:47,695 [main] INFO Search_Dotw - Applying search Filters
+2018-05-23 15:08:47,695 [main] INFO Search_Dotw - Starting HotelSearch Dotw
+2018-05-23 15:09:26,735 [main] INFO Search_Dotw - Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h3[@class='unitName']
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir16516_12748}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 4624555c654e960128d624f7c5b3f96e
+2018-05-23 15:09:28,974 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 15:09:31,486 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-05-23 15:09:37,051 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 15:09:54,360 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-05-23 15:09:56,730 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-05-23 15:09:56,730 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-05-23 15:10:35,717 [main] INFO Search_Prepay_Within_DeadLine - Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h3[@class='unitName']
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'PC350015', ip: '10.245.98.86', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\479739\AppData\Local\Temp\scoped_dir5356_28529}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: dba7ce6ebf8434ba2485a72a0c25f4fd
+2018-05-23 15:10:35,952 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-05-23 15:10:38,667 [main] INFO Search_Credit_Within_DeadLine - Browser Opened
+2018-05-23 15:10:44,230 [main] INFO Search_Credit_Within_DeadLine - Test Case Started
+2018-05-23 15:11:03,928 [main] INFO Search_Credit_Within_DeadLine - Login Successful
+2018-05-23 15:11:06,310 [main] INFO Search_Credit_Within_DeadLine - Applying search Filters
+2018-05-23 15:11:06,311 [main] INFO Search_Credit_Within_DeadLine - Starting HotelSearch Credit Within DeadLine
+2018-05-23 15:11:40,378 [main] INFO Search_Credit_Within_DeadLine - Hotel Search Complete Credit Within DeadLine
+2018-05-23 15:11:42,550 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-05-23 15:11:45,280 [main] INFO Search_Credit_Card_Within_DeadLine - Browser Opened
+2018-05-23 15:11:50,648 [main] INFO Search_Credit_Card_Within_DeadLine - Test Case Started
+2018-05-23 15:12:09,979 [main] INFO Search_Credit_Card_Within_DeadLine - Login Successful
+2018-05-23 15:12:12,343 [main] INFO Search_Credit_Card_Within_DeadLine - Applying search Filters
+2018-05-23 15:12:12,343 [main] INFO Search_Credit_Card_Within_DeadLine - Starting HotelSearch Credit Card Within DeadLine
+2018-05-23 15:12:36,781 [main] INFO Search_Credit_Card_Within_DeadLine - Hotel Search Complete Credit Card Within DeadLine
+2018-05-23 16:04:25,752 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 16:04:29,317 [main] INFO Search_Prepay_Within_DeadLine - Browser Opened
+2018-05-23 16:04:35,648 [main] INFO Search_Prepay_Within_DeadLine - Test Case Started
+2018-05-23 16:04:56,844 [main] INFO Search_Prepay_Within_DeadLine - Login Successful
+2018-05-23 16:04:59,485 [main] INFO Search_Prepay_Within_DeadLine - Applying search Filters
+2018-05-23 16:04:59,485 [main] INFO Search_Prepay_Within_DeadLine - Starting HotelSearch Prepay Within DeadLine
+2018-05-23 16:05:24,641 [main] INFO Search_Prepay_Within_DeadLine - Hotel Search Complete Prepay Within DeadLine
